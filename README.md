@@ -14,7 +14,7 @@
 Java / Spring Boot &nbsp;·&nbsp; Python
 
 **DevOps & Infrastructure**
-Docker &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; Linux &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Bash / Shell Scripting &nbsp;·&nbsp; Git
+Docker &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Linux &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Bash / Shell Scripting &nbsp;·&nbsp; Git
 
 **Cloud**
 Railway &nbsp;·&nbsp; Cloudflare (Pages, R2) &nbsp;·&nbsp; Neon
