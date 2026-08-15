@@ -3,7 +3,7 @@
 <p align="center">
   Full-stack developer with a focus on backend and DevOps &mdash; based in Cyprus<br/>
   Informatics & Telematics, Harokopio University of Athens (graduating July 2026)<br/>
-  Open to relocation to Sweden &nbsp;·&nbsp; Always keen to learn new languages and technologies
+  &nbsp;·&nbsp; Always keen to learn new languages and technologies
 </p>
 
 ---
@@ -30,15 +30,15 @@ JavaScript / TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; HTML / CSS &nbsp;·&
 
 ---
 
-### Thesis Project `Live in Production`
+### Thesis Project
 
 **Event Management Information System with CI/CD Support** &nbsp;
 
-Full-stack platform actively used by two event venues in Cyprus.
+Full-stack platform
 
 - **Backend:** Spring Boot (Java), hosted on Railway
 - **Database:** PostgreSQL on Neon
-- **Frontend:** Three separate React apps ([projectandmorevents.com](https://projectandmorevents.com), [inaryzone.com](https://inaryzone.com), and a management portal) deployed on Cloudflare Pages
+- **Frontend:** Three separate React apps deployed on Cloudflare Pages
 - **Storage:** Cloudflare R2 for object storage
 - **Integrations:** Twilio (SMS), SendGrid (email)
 - **CI/CD:** Automated build and deployment pipeline
